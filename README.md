@@ -1,4 +1,4 @@
-# Scrapyd-Django
+# Django_Scrapy_Inregration
 Setup to run ScrapyD + Django and save it in Django Models. You can be up and running in just a few minutes. This template includes
 
 * Basic structure of a Django project.
