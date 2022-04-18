@@ -40,7 +40,7 @@ Scrapyd is running on: http://localhost:6800
 
 At this point you will be able to send job request to Scrapyd. This project is setup with a demo spider from the oficial tutorial of scrapy. To run it you must send a http request to Scrapyd with the job info
 ````
-curl http://localhost:6800/schedule.json -d project=default -d spider=toscrape-css
+curl http://localhost:6800/schedule.json -d project=default -d spider=
 ````
 
 The crawled data will be automatically be saved in the Django models
