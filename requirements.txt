@@ -4,3 +4,4 @@ requests
 Scrapy
 scrapy-djangoitem
 scrapyd
+djangorestframework
