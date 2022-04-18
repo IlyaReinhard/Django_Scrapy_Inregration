@@ -1,0 +1,6 @@
+Django
+python-scrapyd-api
+requests
+Scrapy
+scrapy-djangoitem
+scrapyd
